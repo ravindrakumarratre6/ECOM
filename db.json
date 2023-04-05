@@ -4,6 +4,7 @@
            "id":1,
             "title":"TITAN TALK S WITH 1.78 AMOLED DISPLAY",
              "img":"https://staticimg.titan.co.in/Titan/Catalog/90165AP03_1.jpg?impolicy=pqmed&imwidth=640",
+             "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":3000,
              "qty":1
            },
@@ -11,6 +12,7 @@
            "id":2,
             "title":"Neo Splash Blue Dial Stainless Steel Strap Watch",
              "img":"https://staticimg.titan.co.in/Titan/Catalog/1805QM01_1.jpg?impolicy=pqmed&imwidth=640",
+              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":2999,
              "qty":1
            },
@@ -18,6 +20,7 @@
            "id":3,
             "title":"Automatic Watch with Silver White Dial & Brown Strap",
              "img":"https://staticimg.titan.co.in/Titan/Catalog/90110QM01_1.jpg?impolicy=pqmed&imwidth=640",
+              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":4999,
              "qty":1
            },
@@ -25,6 +28,7 @@
            "id":4,
             "title":"The King's Watch by Grandmaster",
            "img":"https://staticimg.titan.co.in/Titan/Catalog/90145QL01_1.jpg?impolicy=pqmed&imwidth=640",
+              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":1999,
              "qty":1
            } 
