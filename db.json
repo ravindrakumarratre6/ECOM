@@ -6,7 +6,7 @@
              "img":"https://staticimg.titan.co.in/Titan/Catalog/90165AP03_1.jpg?impolicy=pqmed&imwidth=640",
              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":3000,
-             "qty":1
+             "rating":1
            },
             {
            "id":2,
@@ -14,7 +14,7 @@
              "img":"https://staticimg.titan.co.in/Titan/Catalog/1805QM01_1.jpg?impolicy=pqmed&imwidth=640",
               "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":2999,
-             "qty":1
+             "rating":4
            },
             {
            "id":3,
@@ -22,7 +22,7 @@
              "img":"https://staticimg.titan.co.in/Titan/Catalog/90110QM01_1.jpg?impolicy=pqmed&imwidth=640",
               "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":4999,
-             "qty":1
+             "rating":2
            },
             {
            "id":4,
@@ -30,7 +30,7 @@
            "img":"https://staticimg.titan.co.in/Titan/Catalog/90145QL01_1.jpg?impolicy=pqmed&imwidth=640",
               "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":1999,
-             "qty":1
+             "rating":3
            } 
           ]
 }
