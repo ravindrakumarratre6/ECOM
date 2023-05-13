@@ -31,6 +31,22 @@
               "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
              "price":1999,
              "rating":3
-           } 
+           },
+            {
+           "id":5,
+            "title":"The King's ",
+           "img":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ",
+              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+             "price":9999,
+             "rating":4
+           },
+            {
+           "id":6,
+            "title":"Watch by Grandmaster",
+           "img":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ",
+              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+             "price":999,
+             "rating":4.5
+           }
           ]
 }
