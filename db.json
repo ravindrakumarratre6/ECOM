@@ -4,7 +4,7 @@
            "id":1,
             "title":"TITAN TALK S WITH 1.78 AMOLED DISPLAY",
              "img":"https://staticimg.titan.co.in/Titan/Catalog/90165AP03_1.jpg?impolicy=pqmed&imwidth=640",
-             "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+             "descrition":"Lorem Ipsum is simply dummy text .",
              "price":3000,
              "rating":1
            },
@@ -12,7 +12,7 @@
            "id":2,
             "title":"Neo Splash Blue Dial Stainless Steel Strap Watch",
              "img":"https://staticimg.titan.co.in/Titan/Catalog/1805QM01_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "descrition":"Lorem Ipsum is simply dummy text .",
              "price":2999,
              "rating":4
            },
@@ -20,7 +20,7 @@
            "id":3,
             "title":"Automatic Watch with Silver White Dial & Brown",
              "img":"https://staticimg.titan.co.in/Titan/Catalog/90110QM01_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "descrition":"Lorem Ipsum is simply dummy .",
              "price":4999,
              "rating":2
            },
@@ -28,7 +28,7 @@
            "id":4,
             "title":"The King's Watch by Grandmaster",
            "img":"https://staticimg.titan.co.in/Titan/Catalog/90145QL01_1.jpg?impolicy=pqmed&imwidth=640",
-              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "descrition":"Lorem Ipsum is simply dummy text .",
              "price":1999,
              "rating":3
            },
@@ -36,7 +36,7 @@
            "id":5,
             "title":"The King's ",
            "img":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ",
-              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "descrition":"Lorem Ipsum is simply .",
              "price":9999,
              "rating":4
            },
@@ -44,7 +44,7 @@
            "id":6,
             "title":"Watch by Grandmaster",
            "img":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ",
-              "descrition":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+              "descrition":"Lorem Ipsum is simply ding and type.",
              "price":999,
              "rating":4.5
            }
