@@ -2,8 +2,8 @@
   "Products":[
            {
            "id":1,
-            "title":"TITAN TALK  AMOLED DISPLAY",
-             "img":"https://staticimg.titan.co.in/Titan/Catalog/90165AP03_1.jpg?impolicy=pqmed&imwidth=640",
+            "title":"Analog Men's Watch",
+             "img":"https://n4.sdlcdn.com/imgs/k/n/x/Lorem-Silver-Metal-Analog-Men-SDL816193288-1-42adf.jpg",
              "descrition":"Lorem Ipsum is simply dummy text .",
              "price":3000,
              "rating":1
@@ -26,7 +26,7 @@
            },
             {
            "id":4,
-            "title":"The King's Watch by Grandmaster",
+            "title":"silver metal analog",
            "img":"https://staticimg.titan.co.in/Titan/Catalog/90145QL01_1.jpg?impolicy=pqmed&imwidth=640",
               "descrition":"Lorem Ipsum is simply dummy text .",
              "price":1999,
@@ -34,16 +34,16 @@
            },
             {
            "id":5,
-            "title":"The King's ",
-           "img":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ",
+            "title":"exclusive dial branded lorem watch",
+           "img":"https://n1.sdlcdn.com/imgs/k/n/x/Lorem-Silver-Metal-Analog-Men-SDL864334734-1-612d1.jpg",
               "descrition":"Lorem Ipsum is simply .",
-             "price":9999,
+             "price":899,
              "rating":4
            },
             {
            "id":6,
             "title":"Watch by Grandmaster",
-           "img":"https://fastly.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ",
+           "img":"https://m.media-amazon.com/images/I/81PiMB9yl7L._UL1500_.jpg",
               "descrition":"Lorem Ipsum is simply ding and type.",
              "price":999,
              "rating":4.5
