@@ -7,7 +7,7 @@
              "descrition":"Lorem Ipsum is simply dummy text .",
              "price":3000,
              "rating":1,
-             "qty":0,
+             "qty":1,
              "category":"titan"
            },
             {
@@ -17,7 +17,7 @@
               "descrition":"Lorem Ipsum is simply dummy text .",
              "price":2999,
              "rating":4,
-              "qty":0,
+              "qty":1,
               "category":"lorem"
            },
             {
@@ -27,7 +27,7 @@
               "descrition":"Lorem Ipsum is simply dummy .",
              "price":4999,
              "rating":2,
-              "qty":0,
+              "qty":1,
               "category":"lorem"
            },
             {
@@ -37,7 +37,7 @@
               "descrition":"Lorem Ipsum is simply dummy text .",
              "price":1999,
              "rating":3,
-              "qty":0,
+              "qty":1,
               "category":"titan"
            },
             {
@@ -47,7 +47,7 @@
               "descrition":"Lorem Ipsum is simply .",
              "price":899,
              "rating":4,
-              "qty":0,
+              "qty":1,
               "category":"titan"
            },
             {
@@ -57,7 +57,7 @@
               "descrition":"Lorem Ipsum is simply ding and type.",
              "price":999,
              "rating":4.5,
-              "qty":0,
+              "qty":1,
               "category":"titan"
            }
           ]
