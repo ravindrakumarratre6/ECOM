@@ -59,6 +59,26 @@
              "rating":4.5,
               "qty":1,
               "category":"titan"
-           }
+           },
+          {
+          "id":7,
+            "title":"Fire bolt Rock Smartwatch",
+           "img":"https://cdn.shopify.com/s/files/1/0137/0292/2286/products/rock-gold_2_1800x1800.png?v=1680697956",
+              "descrition":"Lorem Ipsum is simply ding and type.",
+             "price":5999,
+             "rating":4.1,
+              "qty":1,
+              "category":"lorem"
+           },
+            {
+               "id":8,
+            "title":"ColorFit Pro 4 Alpha",
+           "img":"https://cdn.shopify.com/s/files/1/0997/6284/products/6_50043d22-43d3-4b1a-ab42-868d5c157551_765x.png?v=1672140533",
+              "descrition":"Lorem Ipsum is simply ding and type.",
+             "price":3499,
+             "rating":4.4,
+              "qty":1,
+              "category":"lorem"
+            }
           ]
 }
